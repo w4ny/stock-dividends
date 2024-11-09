@@ -3,7 +3,7 @@
 
 # 💻 Tech Stack
 - Language : `Java`
-- - JDK : `JDK 11`
+- JDK : `JDK 11`
 - Build : `gradle`
 - DataBase : `MySQL`, `H2 DataBase`
 - Library : `Lombok`, `spring-web`, `logback`, `Jsoup`, `Jwt`
